@@ -69,7 +69,7 @@ const Navbar = () => {
           <div className="md:flex justify-between items-center">
             <div className='w-full flex justify-between'>
               <div
-                className=" font-light tracking-widest text-2xl text-white hover:text-red-400 text-[18px] md:text-[25px]"
+                className=" font-light tracking-widest text-2xl text-white hover:text-red-400 text-[20px] md:text-[25px]"
                 id="logo"
               >
                 My Creation
